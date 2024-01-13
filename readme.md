@@ -1,11 +1,7 @@
 # 基于springboot的新闻管理系统5
 
 
-## 获取方式
 
-扫描下方，回复关键词  ： “**新闻5**”   
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 1、项目介绍
 
 基于springboot的新闻管理系统5拥有两种角色：管理员和用户
@@ -35,37 +31,42 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261711212.jpg)
+![登录](https://www.codeshop.fun/%20Typora-Images/202309261711212.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712333.jpg)
+![管理员-用户管理](https://www.codeshop.fun/%20Typora-Images/202309261712333.jpg)
 
-![管理员-类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712605.jpg)
+![管理员-类型管理](https://www.codeshop.fun/%20Typora-Images/202309261712605.jpg)
 
-![管理员-新闻管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712347.jpg)
+![管理员-新闻管理](https://www.codeshop.fun/%20Typora-Images/202309261712347.jpg)
 
-![管理员-添加新闻](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712367.jpg)
+![管理员-添加新闻](https://www.codeshop.fun/%20Typora-Images/202309261712367.jpg)
 
-![管理员留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712952.jpg)
+![管理员留言管理](https://www.codeshop.fun/%20Typora-Images/202309261712952.jpg)
 
-![管理员-评论管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712072.jpg)
+![管理员-评论管理](https://www.codeshop.fun/%20Typora-Images/202309261712072.jpg)
 
 ### 4.3 前端模块
 
-![前端-校园新闻分类](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712935.jpg)
+![前端-校园新闻分类](https://www.codeshop.fun/%20Typora-Images/202309261712935.jpg)
 
-![前端-论坛交流](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712728.jpg)
+![前端-论坛交流](https://www.codeshop.fun/%20Typora-Images/202309261712728.jpg)
 
-![前端-新闻详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712878.jpg)
+![前端-新闻详情](https://www.codeshop.fun/%20Typora-Images/202309261712878.jpg)
 
-![前端-评论](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712469.jpg)
+![前端-评论](https://www.codeshop.fun/%20Typora-Images/202309261712469.jpg)
 
 ### 4.4 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309261712551.jpg)
+![文档目录](https://www.codeshop.fun/%20Typora-Images/202309261712551.jpg)
 
 
 
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**新闻**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
